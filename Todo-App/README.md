@@ -1,4 +1,7 @@
-# Basic Todo-App
+A simple Todo App I used to study and practice Javascript.
 
-Created a Todo-App while learning JS.
-###
+Employed:
+NodeJS
+MongoDB
+Axios
+HTML
