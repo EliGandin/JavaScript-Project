@@ -1,4 +1,4 @@
-![image](https://github.com/EliGandin/JavaScript-Projects/assets/87780727/f00828bd-6d62-4443-a515-3b959d09f04d)# Eat-N-Split
+# Eat-N-Split
 
 Created a check-splitting app app using React.\
 Employed State hierachy, lifting up state, derived state, children state and component modulation\
