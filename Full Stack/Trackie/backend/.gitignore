@@ -1,0 +1,5 @@
+# Compiled JS files
+dist/*
+
+# Node Modules
+node_modules/*
