@@ -17,9 +17,9 @@ Pizza ordering website using React, React Router,, Redux and Tailwind
 ## Screenshots
 Welcome Page
 ![image1](https://github.com/EliGandin/JavaScript-Projects/blob/main/React/Fast%20React%20Pizza/image1.png)
-/
+\
 Menu Page
 ![image2](https://github.com/EliGandin/JavaScript-Projects/blob/main/React/Fast%20React%20Pizza/image2.png)
-/
+\
 Order Form
 ![image3](https://github.com/EliGandin/JavaScript-Projects/blob/main/React/Fast%20React%20Pizza/image3.png)
